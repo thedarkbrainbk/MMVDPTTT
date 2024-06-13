@@ -376,5 +376,40 @@
         "timestamp": 1681521667.3044982,
         "data": "Block 53",
         "hash": "dd6b98dbf64822ad1dba54241ba1b7ddf3eec7998ded60b230a1b72cf2662f1c"
+    },
+    {
+        "index": 54,
+        "previous_hash": "dd6b98dbf64822ad1dba54241ba1b7ddf3eec7998ded60b230a1b72cf2662f1c",
+        "timestamp": 1718235579.3020968,
+        "data": "Block 54",
+        "hash": "adc8394b219b8d7621001db0c49e44cf8d39a4f830926852b1a6c3118c725ab3"
+    },
+    {
+        "index": 55,
+        "previous_hash": "adc8394b219b8d7621001db0c49e44cf8d39a4f830926852b1a6c3118c725ab3",
+        "timestamp": 1718235589.5063205,
+        "data": "Block 55",
+        "hash": "904fc69da2f8d04029d201968b1074853f29080e5960fdcbb76392cc22d35f56"
+    },
+    {
+        "index": 56,
+        "previous_hash": "904fc69da2f8d04029d201968b1074853f29080e5960fdcbb76392cc22d35f56",
+        "timestamp": 1718235599.508817,
+        "data": "Block 56",
+        "hash": "907ab6f44bab3606baf35343fa60ac3713036077bec5b2d08be64f5c4c1011b3"
+    },
+    {
+        "index": 57,
+        "previous_hash": "907ab6f44bab3606baf35343fa60ac3713036077bec5b2d08be64f5c4c1011b3",
+        "timestamp": 1718235609.5138757,
+        "data": "Block 57",
+        "hash": "4877125b9c02755118e9a3e6c15277d0fddf320bf61d0270c5088dc578b1b39b"
+    },
+    {
+        "index": 58,
+        "previous_hash": "4877125b9c02755118e9a3e6c15277d0fddf320bf61d0270c5088dc578b1b39b",
+        "timestamp": 1718235619.5167093,
+        "data": "Block 58",
+        "hash": "b72981f0301b92e29155e4e1587e035ec0dfd9f3fd1a82aa44e0114ca7942317"
     }
 ]
