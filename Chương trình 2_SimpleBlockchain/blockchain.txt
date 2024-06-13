@@ -411,5 +411,19 @@
         "timestamp": 1718235619.5167093,
         "data": "Block 58",
         "hash": "b72981f0301b92e29155e4e1587e035ec0dfd9f3fd1a82aa44e0114ca7942317"
+    },
+    {
+        "index": 59,
+        "previous_hash": "b72981f0301b92e29155e4e1587e035ec0dfd9f3fd1a82aa44e0114ca7942317",
+        "timestamp": 1718258084.6414146,
+        "data": "Block 59",
+        "hash": "58288435cc9a3dac85eb7502ae0525186e1fb19e49320fce2fe791d1d7151bac"
+    },
+    {
+        "index": 60,
+        "previous_hash": "58288435cc9a3dac85eb7502ae0525186e1fb19e49320fce2fe791d1d7151bac",
+        "timestamp": 1718258094.717104,
+        "data": "Block 60",
+        "hash": "be2db492a4b6d7b6f56f42e11ba3584e2aced58ee5b2247e41b74a1bb71c2594"
     }
 ]
